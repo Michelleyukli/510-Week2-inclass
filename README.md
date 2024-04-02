@@ -2,10 +2,10 @@
 Lab 2: Streamlit cont’d
 
 ## Installation
-python -m venv venv
-source venv/Scripts/activate
-pip install -r requirements.txt
-streamlit run app.py
+- python -m venv venv
+- source venv/Scripts/activate
+- pip install -r requirements.txt
+- streamlit run app.py
 
 ## Usage
 streamlit run app.py
